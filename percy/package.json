@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "@percy/cypress": "^2.3.0",
+    "cypress": "^4.0.1"
+  }
+}
